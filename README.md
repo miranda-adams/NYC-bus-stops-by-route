@@ -1,4 +1,4 @@
-# NYC-bus-stops-by-route
+# NYC bus stops by route
 These files are for anyone who wants to map or analyze bus stops in New York City. The finished data includes the stop ID number, the stop name, direction, bus route, and geometry information, in both ESRI Shapefile and CSV format. 
 
 ### Background
